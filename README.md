@@ -14,3 +14,6 @@ If you have any questions about the materials, want to chat or invite me for a t
 - 17.04.24 [Talk "Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240417_Presentation_Group_Meeting_Nottingham.pdf) at Gravity Group Meeting during my visit to the Univerisity of Nottingham
 - 16.04.24 [Introductory Lecture "Overview on Deep Generative Modeling for the Natural Sciences"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240416_Presentation_DL4NaturalScience_Seminar_TUM.pdf) at the TUM Seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science)
 - 25.03.24 [Tutorial "PyTorch Models on the Hook"](https://github.com/annalena-k/tutorial-pytorch-hooks) at the Empirical Inference group seminar
+
+
+The folder [`memes_and_other_fun`](https://github.com/annalena-k/presentations-posters-and-other-fun-things/tree/main/memes_and_other_fun) contains amazing memes by other people that I found funny and wanted to keep track of for future presentations. I hope they make you laugh!

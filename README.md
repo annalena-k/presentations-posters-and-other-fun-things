@@ -8,7 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2024
-- 07.06.24 [Tutorial "PyTorch Models on the Hook"](https://github.com/annalena-k/tutorial-pytorch-hooks) as a Software Tutorial for the MPI-IS
+- 07.06.24 [Tutorial "PyTorch Models on the Hook"](https://github.com/annalena-k/tutorial-pytorch-hooks) as a [Software Tutorial](https://imprs.is.mpg.de/events/scientific-training-pytorch) for MPI-IS and IMPRS-IS
 - 16.05.24 [Poster "DINGO: Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [PHYSTAT Workshop on Simulation Based Inference in Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich
 - 25.04.24 [Talk "Neural Posterior Estimation with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240424_Presentation_AIslands.pdf) at the [AIslands Workshop](https://www.gla.ac.uk/events/conferences/aislands-arran24/) on the Isle of Arran
 - 17.04.24 [Talk "Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240417_Presentation_Group_Meeting_Nottingham.pdf) at Gravity Group Meeting during my visit to the Univerisity of Nottingham

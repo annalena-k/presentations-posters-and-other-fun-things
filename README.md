@@ -8,6 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2024
+- 23.09.24 Invited [Lecture](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240913_Lecture_Normalizing_flows_genAI_workshop_munich.pdf) and [Tutorial](https://github.com/odsl-team/genAI-Days) on Normalizing Flows at the [genAI workshop](https://indico.ph.tum.de/event/7722/) in Munich
 - 19.06.24 [Tutorial "Introduction to DINGO"](https://github.com/annalena-k/tutorial-dingo-introduction) with Colab notebook 
 - 07.06.24 [Tutorial "PyTorch Models on the Hook"](https://github.com/annalena-k/tutorial-pytorch-hooks) as a [Software Tutorial](https://imprs.is.mpg.de/events/scientific-training-pytorch) for MPI-IS and IMPRS-IS
 - 16.05.24 [Poster "DINGO: Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240516_Poster_SBI_Workshop_Munich.pdf) at the [PHYSTAT Workshop on Simulation Based Inference in Fundamental Physics](https://indico.cern.ch/event/1355601/) in Munich

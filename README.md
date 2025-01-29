@@ -8,7 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2025
-- 28.01.2025 Invited talk ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) at [Nachman Group](https://nachmangroup.github.io/index.html), Berkley (remote)
+- 28.01.2025 [Invited talk](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250128_talk_berkley_FAB-meets-diffME.pdf) about my recent paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) at [Nachman Group](https://nachmangroup.github.io/index.html), Berkley (remote)
 - 14.01.2025 [Poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250114_poster_fm4ar.pdf) for [_Flow matching for atmospheric retrieval of exoplanets: Where reliability meets adaptive noise levels_](https://www.aanda.org/articles/aa/full_html/2025/01/aa51861-24/aa51861-24.html)
 ### 2024
 - 15.12.2024 🏆 [Spotlight contributed talk](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20241214_spotlight_presentation_NeurIPS_ML4PS.pdf) and [poster](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20241214_poster_NeurIPS_ML4PS.pdf) at the [NeurIPS workshop _Machine Learning and the Physical Sciences 2024_](https://ml4physicalsciences.github.io/2024/index.html) 

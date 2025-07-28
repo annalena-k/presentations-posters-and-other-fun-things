@@ -8,7 +8,8 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2025
-- 22.07.2025 Selected speaker at [Soapbox Science Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/) "Das Flüstern der Raumzeit: Gravitationswellen analysieren mit Maschinellem Lernen" ("The Whisper of Spacetime: Analyzing Gravitational Waves with Machine Learning")
+- 28.07.2025 [Tutorial "Format LaTeX tables like a Pro"](https://github.com/annalena-k/tutorial_latex_formatting)
+- 26.07.2025 Selected speaker at [Soapbox Science Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/) "Das Flüstern der Raumzeit: Gravitationswellen analysieren mit Maschinellem Lernen" ("The Whisper of Spacetime: Analyzing Gravitational Waves with Machine Learning")
 - 10.07.2025 [Invited talk about "Importance Sampling with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250710_tianqin_seminar_dingo_is.pdf) at the TianQin student seminar (remote)
 - 04.06.2025 High-level [talk](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250604_mpi_is_retreat_EI_department.pdf) about DINGO at the MPI-IS retreat to highlight projects of the Empirical Inference department
 - 28.01.2025 [Invited talk](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250128_talk_berkley_FAB-meets-diffME.pdf) about my recent paper ["Flow Annealed Importance Sampling Bootstrap meets Differentiable Particle Physics"](https://arxiv.org/abs/2411.16234) at [Nachman Group](https://nachmangroup.github.io/index.html), Berkley (remote)

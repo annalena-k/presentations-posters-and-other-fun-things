@@ -8,6 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2025
+- 26.09.2025 🏆 Won "Best poster award" at the [IMPRS-IS Bootcamp](https://imprs.is.mpg.de/events/2025-imprs-is-boot-camp) for my poster ["Flexible Gravitational-Wave Parameter Estimation with Transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/202501203_poster_DINGO-T1.pdf)
 - 12.09.2025 Talk "Differentiable jet clustering" at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule)
 - 05.09.2025 [Invited talk "Simulation-based inference in gravitational waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250905_sbi_in_gws.pdf) at the [topical workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://indico.ph.tum.de/event/7906/)
 - 28.07.2025 [Tutorial "Format LaTeX tables like a Pro"](https://github.com/annalena-k/tutorial_latex_formatting)
@@ -30,5 +31,6 @@ If you have any questions about the materials, want to chat or invite me for a t
 - 16.04.2024 [Introductory Lecture "Overview on Deep Generative Modeling for the Natural Sciences"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2024/20240416_Presentation_DL4NaturalScience_Seminar_TUM.pdf) at the TUM Seminar [Deep Learning for the Natural Sciences](https://cvg.cit.tum.de/teaching/ss2024/dl4science)
 - 25.03.2024 [Tutorial "PyTorch Models on the Hook"](https://github.com/annalena-k/tutorial-pytorch-hooks) at the Empirical Inference group seminar
 
+![Poster with two illustrated black holes in the center. It explains what gravitational waves are and how parameter estimation can be performed with DINGO. The standard DINGO architecture with a Resnet and normalizing flow is illustrated and compared to the DINGO-T1 architecture, consisting of a transformer encoder and a normalizing flow. The flexibility of the transformer is used to perform data analysis on 48 GW events with 17 different data analysis settings. Results are validated with importance sampling. ](2025/20251203_poster_DINGO-T1.png)
 
 The folder [`memes_and_other_fun`](https://github.com/annalena-k/presentations-posters-and-other-fun-things/tree/main/memes_and_other_fun) contains amazing memes by other people that I found funny and wanted to keep track of for future presentations. I hope they make you laugh!

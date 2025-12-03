@@ -9,7 +9,7 @@ If you have any questions about the materials, want to chat or invite me for a t
 
 ### 2025
 - 12.09.2025 Talk "Differentiable jet clustering" at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule)
-- 05.09.2025 Talk "Simulation-based inference in gravitational waves" at the [topical workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://indico.ph.tum.de/event/7906/)
+- 05.09.2025 [Invited talk "Simulation-based inference in gravitational waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250905_sbi_in_gws.pdf) at the [topical workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://indico.ph.tum.de/event/7906/)
 - 28.07.2025 [Tutorial "Format LaTeX tables like a Pro"](https://github.com/annalena-k/tutorial_latex_formatting)
 - 26.07.2025 Selected speaker at [Soapbox Science Tübingen](https://uni-tuebingen.de/universitaet/equity/aktuelles-gender/newsfullview-aktuelles/article/soapbox-science-tuebingen/) "Das Flüstern der Raumzeit: Gravitationswellen analysieren mit Maschinellem Lernen" ("The Whisper of Spacetime: Analyzing Gravitational Waves with Machine Learning")
 - 10.07.2025 [Invited talk about "Importance Sampling with DINGO"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250710_tianqin_seminar_dingo_is.pdf) at the TianQin student seminar (remote)

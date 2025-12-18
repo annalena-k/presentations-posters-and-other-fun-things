@@ -8,6 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2025
+- 18.12.2025 Invited talk "Flexible gravitational-wave parameter estimation with transformers" at LIGOs Machine Learning algorithms group
 - 26.09.2025 🏆 Won "Best poster award" at the [IMPRS-IS Bootcamp](https://imprs.is.mpg.de/events/2025-imprs-is-boot-camp) for my poster ["Flexible Gravitational-Wave Parameter Estimation with Transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20251203_poster_DINGO-T1.pdf)
 - 12.09.2025 Talk "Differentiable jet clustering" at the [MIAPbP workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://www.munich-iapbp.de/activities/activities-2025/machine-learning/schedule)
 - 05.09.2025 [Invited talk "Simulation-based inference in gravitational waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2025/20250905_sbi_in_gws.pdf) at the [topical workshop "Build big or build smart: Examining scale and domain knowledge in machine learning for fundamental physics"](https://indico.ph.tum.de/event/7906/)

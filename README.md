@@ -8,7 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### 2026
-- 27.01.2026: Talk at the GWfreeride workshop in Sexten
+- 27.01.2026: Talk ["Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260127_npe_for_gws_gwfreeride_print.pdf) at the [GWfreeride workshop](https://sites.google.com/unimib.it/gwfreeride/home?authuser=0) in Sexten
 - 22.01.2026 Invited talk at RWTH Aachen about ["Gravitational-wave parameter estimation with DINGO: From current to future detectors"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260122_rwth_aachen_talk_dingo%2Bet.pdf)
 
 ### 2025

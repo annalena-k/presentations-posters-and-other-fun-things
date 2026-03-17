@@ -8,7 +8,7 @@ If you want to use parts of my work in one of your presentations, please cite me
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
 ### Upcoming
-- 29.04.2026 Invited talk at the MPI for gravitational physics in Potsdam
+- 29.04.2026 Invited talk at the [Seminar](https://www.aei.mpg.de/139117/seminars) of the ["Astrophysical and Cosmological Relativity" group](https://www.aei.mpg.de/astro-cosmo-rel) at the MPI for gravitational physics in Potsdam
 - 23.04.2026 DINGO tutorial at the [lecture week](https://imprs-lectures.aei.mpg.de/joint-lecture-week-20-24-april/) of the IMPRS for gravity at the extreme
 - 26.03.2026 Invited talk ["AI for Gravitational Waves"](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) at the [Merantix AI campus](https://www.merantix-aicampus.com)
 

@@ -9,14 +9,14 @@ If you have any questions about the materials, want to chat or invite me for a t
 
 ### Upcoming
 - 29.04.2026 Invited talk at the MPI for gravitational physics in Potsdam
-- 23.04.2026: DINGO tutorial at the [lecture week](https://imprs-lectures.aei.mpg.de/joint-lecture-week-20-24-april/) of the IMPRS for gravity at the extreme
-- 26.03.2026: Invited talk ["AI for Gravitational Waves"](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) at the [Merantix AI campus](https://www.merantix-aicampus.com)
+- 23.04.2026 DINGO tutorial at the [lecture week](https://imprs-lectures.aei.mpg.de/joint-lecture-week-20-24-april/) of the IMPRS for gravity at the extreme
+- 26.03.2026 Invited talk ["AI for Gravitational Waves"](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) at the [Merantix AI campus](https://www.merantix-aicampus.com)
 
 ### 2026
-- 10.03.2026: Talk ["Flexible gravitational-wave parameter stimation with transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260310_dingo-T1_LVK.pdf) at [LVK collaboration meeting](https://lvk2026pisa.org) in Pisa
-- 05.03.2026: Invited talk ["Differentiating discrete decisions"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260305_differentiating_discrete_operations.pdf) at the [IRIS-HEP Differentiable Analysis Blueprint Workshop](https://indico.cern.ch/event/1633539/timetable/#day-2026-03-05) (online)
-- 13.02.2026: Friday talk ["Flexible gravitational-wave parameter stimation with transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260213_friday_talk_print.pdf) at the University of Tübingen
-- 27.01.2026: Talk ["Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260127_npe_for_gws_gwfreeride_print.pdf) at the [GWfreeride workshop](https://sites.google.com/unimib.it/gwfreeride/home?authuser=0) in Sexten
+- 10.03.2026 Talk ["Flexible gravitational-wave parameter stimation with transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260310_dingo-T1_LVK.pdf) at [LVK collaboration meeting](https://lvk2026pisa.org) in Pisa
+- 05.03.2026 Invited talk ["Differentiating discrete decisions"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260305_differentiating_discrete_operations.pdf) at the [IRIS-HEP Differentiable Analysis Blueprint Workshop](https://indico.cern.ch/event/1633539/timetable/#day-2026-03-05) (online)
+- 13.02.2026 Friday talk ["Flexible gravitational-wave parameter stimation with transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260213_friday_talk_print.pdf) at the University of Tübingen
+- 27.01.2026 Talk ["Neural Posterior Estimation for Gravitational Waves"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260127_npe_for_gws_gwfreeride_print.pdf) at the [GWfreeride workshop](https://sites.google.com/unimib.it/gwfreeride/home?authuser=0) in Sexten
 - 22.01.2026 Invited talk at RWTH Aachen about ["Gravitational-wave parameter estimation with DINGO: From current to future detectors"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260122_rwth_aachen_talk_dingo%2Bet.pdf)
 
 ### 2025

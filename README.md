@@ -7,6 +7,9 @@ If you want to use parts of my work in one of your presentations, please cite me
 
 If you have any questions about the materials, want to chat or invite me for a talk, please don't hesitate reach out via email!
 
+### Upcoming
+- 01.07.2026 Invited talk ["Decoding Gravitational Waves With Machine Learning"](https://www.mediatheque.lindau-nobel.org/meetings/2026/programme/42971) at the [75th Lindau Nobel Laureate Meeting](https://www.mediatheque.lindau-nobel.org/meetings/2026?_gl=1*1wl8p8y*_ga*MTM0MTMzOTA4Ny4xNzQxOTQ4Njk1*_ga_WNYNHDJY2L*czE3NzM3MzY1MjckbzExNTckZzEkdDE3NzM3MzgzNTUkajIwJGwwJGgw) (Best 10% of talks selected through popular vote of participants based on anonymized abstracts)
+
 ### 2026
 - 26.03.2026 Invited talk ["AI for Gravitational Waves"](https://www.merantix-aicampus.com/event/ai4science---ai-for-gravitational-waves) at the [Merantix AI campus](https://www.merantix-aicampus.com) in Berlin which was streamed at [Mila - Quebec Artificial Intelligence Institute](https://mila.quebec/en). You can find the recording [here](https://youtu.be/EopGKKrtlBM?t=3106) and the slides [here](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260326_ai_for_gravitational_waves_merantix.pdf)!
 - 10.03.2026 Talk ["Flexible gravitational-wave parameter stimation with transformers"](https://github.com/annalena-k/presentations-posters-and-other-fun-things/blob/main/2026/20260310_dingo-T1_LVK.pdf) at [LVK collaboration meeting](https://lvk2026pisa.org) in Pisa
